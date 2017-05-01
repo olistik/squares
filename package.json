@@ -1,0 +1,23 @@
+{
+  "name": "Squares",
+  "description": "OMG it's full of squares",
+  "private": true,
+  "author": "Maurizio De Magnis",
+  "version": "0.0.1",
+  "repository": "",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "auto-reload-brunch": "^2",
+    "babel-brunch": "~6.0",
+    "babel-preset-latest": "^6",
+    "brunch": "^2",
+    "clean-css-brunch": "^2",
+    "uglify-js-brunch": "^2"
+  },
+  "main": "app/initialize.js",
+  "license": "AGPLv3"
+}
